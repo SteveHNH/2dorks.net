@@ -1,0 +1,16 @@
+# Root domain redirect
+/               https://www.twitch.tv/2dorkstv/                      301
+/discord        https://discord.gg/dfPJZcF                           301
+/twtd           https://feeds.acast.com/public/shows/thosewerethedays 301
+/book           https://amzn.to/3jCy175                              301
+/laundered      https://amzn.to/3jCy175                              301
+/horizons       https://curseddragonship.com/book/592/               301
+/mispelled      https://curseddragonship.com/book/misspelled-magic-gone-awry/ 301
+/youtube        https://www.youtube.com/channel/UCPGystZoHFSKOGxKO7zTFeg 301
+/support        https://www.patreon.com/2dorks                       301
+/goats          https://anchor.fm/staringatgoats                     301
+/tip            https://streamelements.com/2dorkstv/tip              301
+/toys           https://tilt.fyi/86SofBaBm4                          301
+/poll           https://pollerbear.me/polls/68                       301
+/call           https://voicecast.app/thosedaysshow                  301
+/24fps          https://shows.acast.com/24-fps-presents              301
